@@ -47,14 +47,6 @@ export default class Main extends Component {
             path="/contact"
             render={(props) => <Contact {...props} theme={this.props.theme} />}
           />
-//          <Route
-//            path="/opensource"
-//            render={(props) => (
-//              <Opensource {...props} theme={this.props.theme} />
-//            )}
-//          />
-
-
           {settings.isSplash && (
             <Route
               path="/splash"
