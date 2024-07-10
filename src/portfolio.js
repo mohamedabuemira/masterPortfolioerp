@@ -374,8 +374,8 @@ const degrees = {
   ],
 };
 // certifications Page
-//const certifications = {
-//  certifications: [
+const certifications = {
+  certifications: [
 //    {
 //      title: "Odoo 16 & 17 Functional Certification",
 //      subtitle: "- Odoo",
@@ -431,8 +431,8 @@ const degrees = {
 //      alt_name: "CFI",
 //      color_code: "#F0F0F0",
 //    },
-//  ],
-//};
+ ],
+};
 
 
 // Experience Page
