@@ -503,8 +503,7 @@ const experience = {
           logo_path: "Alexbank.png",
           duration: "Aug 2010 - oct 2010",
           location: "october, Egypt",
-          description:
-          ""
+          description:"Teller"  ,
           color: "#000000",
         },
 //        {
@@ -553,16 +552,17 @@ const experience = {
 };
 
 // Projects Page
+// Projects Page
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects make use of a vast variety of latest technology tools. My best experience is in creating Data Science projects and deploying them to web applications using cloud infrastructure.",
   avatar_image_path: "projects_image.svg",
 };
 
 const publicationsHeader = {
   title: "Publications",
-  description: "Some of my published Articles, Blogs and Research.",
+  description: "Some of my published Articles, Blogs, and Research.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -589,6 +589,48 @@ const publications = {
       description: "Blog published in Paperspace",
       url: "https://blog.paperspace.com/consistency-models/",
     },
+    {
+      id: "implementation-erp-odex-socpa",
+      name: "Implementation of ERP Odex at SOCPA",
+      createdAt: "2023-01-01T00:00:00Z",
+      description: "Led the end-to-end deployment and customization of ERP Odex at SOCPA, streamlining financial and administrative processes.",
+      url: "", // Add URL if available
+    },
+    {
+      id: "implementation-erp-odex-ensan",
+      name: "Implementation of ERP Odex at Ensan",
+      createdAt: "2024-01-01T00:00:00Z",
+      description: "Managed the implementation of ERP Odex at Ensan, improving operational efficiency and data management.",
+      url: "", // Add URL if available
+    },
+    {
+      id: "implementation-erp-odoo-15-al-qahtani",
+      name: "Implementation of ERP Odoo 15 EE at Al-Qahtani & Sons Company",
+      createdAt: "2023-07-01T00:00:00Z",
+      description: "Executed the successful implementation of ERP Odoo 15 EE at Al-Qahtani & Sons Company, enhancing resource planning and inventory management.",
+      url: "", // Add URL if available
+    },
+    {
+      id: "implementation-erp-odoo-15-makkiyoon",
+      name: "Implementation of ERP Odoo 15 EE at Makkiyoon",
+      createdAt: "2023-10-01T00:00:00Z",
+      description: "Directed the installation and customization of ERP Odoo 15 EE at Makkiyoon, improving business processes and reporting capabilities.",
+      url: "", // Add URL if available
+    },
+    {
+      id: "implementation-erp-odoo-14-eastern-yield",
+      name: "Implementation of ERP Odoo 14 EE at Eastern Yield",
+      createdAt: "2022-01-01T00:00:00Z",
+      description: "Oversaw the deployment of ERP Odoo 14 EE at Eastern Yield, optimizing operational workflows and financial tracking.",
+      url: "", // Add URL if available
+    },
+    {
+      id: "implementation-erp-odoo-15-abdulaziz-almodhy",
+      name: "Implementation of ERP Odoo 15 EE at AbdulAziz Almodhy Law Firm",
+      createdAt: "2023-04-01T00:00:00Z",
+      description: "Led the implementation of ERP Odoo 15 EE at AbdulAziz Almodhy Law Firm, facilitating better case management and administrative efficiency.",
+      url: "", // Add URL if available
+    },
   ],
 };
 
@@ -596,27 +638,27 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "passport.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+"I am available for consultation as a Financial Manager | ERP Consultant. Feel free to reach out on any social media platform, and I will respond within 24 hours. I specialize in ML, AI, React, Android, Cloud, and Opensource Development."
   },
   blogSection: {
     title: "Blogs",
     subtitle:
       "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://https://besterp.odoo.com/blog/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle: "Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
-    country: "USA",
-    region: "California",
+    subtitle: "Kirdasa, Giza,Egypt",
+    locality: "Kirdasa",
+    country: "Egypt",
+    region: "Egypt",
     postalCode: "95129",
-    streetAddress: "Saratoga Avenue",
+    streetAddress: "Mansouriya Road",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link: "https://www.google.com/maps/place/Kirdasah,+Kerdasah,+Kerdasa,+Giza+Governorate/@30.0247162,31.1038224,15z/data=!3m1!4b1!4m6!3m5!1s0x145844e4f5c564c5:0x1d2a498fbc699ab4!8m2!3d30.0308657!4d31.1111907!16s%2Fm%2F0gxz94t?authuser=0&entry=ttu",
   },
   phoneSection: {
     title: "",
