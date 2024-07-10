@@ -274,22 +274,29 @@ const skills = {
 const competitiveSites = {
   competitiveSites: [
     {
-      siteName: "LeetCode",
-       siteName: "Cairo University",
-      iconifyClassname: "simple-icons:cairo_university", // Assuming there is an icon available
+      siteName: "Cairo University",
+      iconifyClassname: "simple-icons:cairo_university",
       style: {
-        color: "#005739", // Assuming Cairo University's color
+        color: "#005739",
       },
-
       profileLink: "https://www.linkedin.com/in/abuemira/",
     },
+//    {
+//      siteName: "HackerRank",
+//      iconifyClassname: "simple-icons:hackerrank",
+//      style: {
+//        color: "#2EC866",
+//      },
+//      profileLink: "https://www.hackerrank.com/layman_brother",
+//    },
+
   ],
 };
 
 const degrees = {
   degrees: [
     {
-      title: "Cairo University",
+     title: "Cairo University",
         subtitle: "Bachelor of Commerce, Accounting & Finance",
         logo_path: "cairo_university_logo.jpg", // Assuming you have the logo
         alt_name: "Cairo University",
