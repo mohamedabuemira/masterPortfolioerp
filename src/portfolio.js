@@ -385,52 +385,52 @@ const certifications = {
       alt_name: "Odoo",
       color_code: "#F0F0F0",
     },
-//    {
-//      title: " ALX AiCE - AI Career Essentials",
-//      subtitle: "- ALX ",
-//      logo_path: "40-alx-aice-ai-career-essentials-certificate-mohamed-essam-abu-emira.png", // Replace with actual logo path
-//      certificate_link:
-//        "https://intranet.alxswe.com/certificates/xMYrP8sCT9",
-//      alt_name: "McKinsey & Company",
-//      color_code: "#E4E4E4",
-//    },
-//
-//    {
-//      title: "McKinsey Forward Program",
-//      subtitle: "- McKinsey & Company",
-//      logo_path: "mckinsey_logo.png", // Replace with actual logo path
-//      certificate_link:
-//        "https://www.credly.com/badges/18980ea7-db63-4065-bd1b-bc39e736ffbd/linked_in_profile",
-//      alt_name: "McKinsey & Company",
-//      color_code: "#E4E4E4",
-//    },
-//    {
-//      title: "Project Management from Google",
-//      subtitle: "- Google",
-//      logo_path: "google_logo.png", // Replace with actual logo path
-//      certificate_link:
-//        "https://www.linkedin.com/in/abuemira/details/certifications/",
-//      alt_name: "Google",
-//      color_code: "#0C9D58",
-//    },
-//    {
-//      title: "Product Management Basics Certification",
-//      subtitle: "- Pendo",
-//      logo_path: "Pendo_logo.png", // Replace with actual logo path
-//      certificate_link:
-//        "https://www.credly.com/badges/d9784cb2-0e16-4f58-9b27-422cf201582f/linked_in_profile/",
-//      alt_name: "CFI",
-//      color_code: "#F0F0F0",
-//    },
-//    {
-//      title: "Accounting Fundamentals from Corporate Finance Institute® (CFI)",
-//      subtitle: "- Corporate Finance Institute® (CFI)",
-//      logo_path: "cfi_logo.jpg", // Replace with actual logo path
-//      certificate_link:
-//        "https://credentials.corporatefinanceinstitute.com/60cd8780-e824-4aea-80e5-288f0042df5c/",
-//      alt_name: "CFI",
-//      color_code: "#F0F0F0",
-//    },
+    {
+      title: " ALX AiCE - AI Career Essentials",
+      subtitle: "- ALX ",
+      logo_path: "40-alx-aice-ai-career-essentials-certificate-mohamed-essam-abu-emira.png", // Replace with actual logo path
+      certificate_link:
+        "https://intranet.alxswe.com/certificates/xMYrP8sCT9",
+      alt_name: "McKinsey & Company",
+      color_code: "#E4E4E4",
+    },
+
+    {
+      title: "McKinsey Forward Program",
+      subtitle: "- McKinsey & Company",
+      logo_path: "mckinsey_logo.png", // Replace with actual logo path
+      certificate_link:
+        "https://www.credly.com/badges/18980ea7-db63-4065-bd1b-bc39e736ffbd/linked_in_profile",
+      alt_name: "McKinsey & Company",
+      color_code: "#E4E4E4",
+    },
+    {
+      title: "Project Management from Google",
+      subtitle: "- Google",
+      logo_path: "google_logo.png", // Replace with actual logo path
+      certificate_link:
+        "https://www.linkedin.com/in/abuemira/details/certifications/",
+      alt_name: "Google",
+      color_code: "#0C9D58",
+    },
+    {
+      title: "Product Management Basics Certification",
+      subtitle: "- Pendo",
+      logo_path: "Pendo_logo.png", // Replace with actual logo path
+      certificate_link:
+        "https://www.credly.com/badges/d9784cb2-0e16-4f58-9b27-422cf201582f/linked_in_profile/",
+      alt_name: "CFI",
+      color_code: "#F0F0F0",
+    },
+    {
+      title: "Accounting Fundamentals from Corporate Finance Institute® (CFI)",
+      subtitle: "- Corporate Finance Institute® (CFI)",
+      logo_path: "cfi_logo.jpg", // Replace with actual logo path
+      certificate_link:
+        "https://credentials.corporatefinanceinstitute.com/60cd8780-e824-4aea-80e5-288f0042df5c/",
+      alt_name: "CFI",
+      color_code: "#F0F0F0",
+    },
  ],
 };
 
