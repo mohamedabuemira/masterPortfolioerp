@@ -376,15 +376,15 @@ const degrees = {
 // certifications Page
 const certifications = {
   certifications: [
-//    {
-//      title: "Odoo 16 & 17 Functional Certification",
-//      subtitle: "- Odoo",
-//      logo_path: "odoocertification.jpg", // Replace with actual logo path
-//      certificate_link:
-//        "https://drive.google.com/file/d/1eHusoGXtbL6_L6svBoYhIoaPme_yoQnj/view",
-//      alt_name: "Odoo",
-//      color_code: "#F0F0F0",
-//    },
+    {
+      title: "Odoo 16 & 17 Functional Certification",
+      subtitle: "- Odoo",
+      logo_path: "odoocertification.jpeg", // Replace with actual logo path
+      certificate_link:
+        "https://drive.google.com/file/d/1eHusoGXtbL6_L6svBoYhIoaPme_yoQnj/view",
+      alt_name: "Odoo",
+      color_code: "#F0F0F0",
+    },
 //    {
 //      title: " ALX AiCE - AI Career Essentials",
 //      subtitle: "- ALX ",
