@@ -274,21 +274,21 @@ const skills = {
 const competitiveSites = {
   competitiveSites: [
     {
-      siteName: "Cairo University",
+      siteName: "CairoUniversity",
       iconifyClassname: "simple-icons:cairo_university",
       style: {
         color: "#005739",
       },
       profileLink: "https://www.linkedin.com/in/abuemira/",
     },
-//    {
-//      siteName: "HackerRank",
-//      iconifyClassname: "simple-icons:hackerrank",
-//      style: {
-//        color: "#2EC866",
-//      },
-//      profileLink: "https://www.hackerrank.com/layman_brother",
-//    },
+    {
+      siteName: "HackerRank",
+      iconifyClassname: "simple-icons:hackerrank",
+      style: {
+        color: "#2EC866",
+      },
+      profileLink: "https://www.hackerrank.com/layman_brother",
+    },
 
   ],
 };
