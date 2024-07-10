@@ -282,14 +282,14 @@ const competitiveSites = {
       },
       profileLink: "https://leetcode.com/layman_brother/",
     },
-//    {
-//     siteName: "Cairo University",
-//      iconifyClassname: "simple-icons:cairo_university", // Assuming there is an icon available
-//      style: {
-//        color: "#005739", // Assuming Cairo University's color
-//      },
-//      profileLink: "https://www.linkedin.com/in/abuemira/",
-//    },
+    {
+     siteName: "Cairo University",
+      iconifyClassname: "simple-icons:cairo_university", // Assuming there is an icon available
+      style: {
+        color: "#005739", // Assuming Cairo University's color
+      },
+      profileLink: "https://www.linkedin.com/in/abuemira/",
+    },
     {
       siteName: "HackerRank",
       iconifyClassname: "simple-icons:hackerrank",
