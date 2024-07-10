@@ -530,8 +530,7 @@ const experience = {
           logo_path: "Resala-logo.png",
           duration: "June 2011 - April 2014",
           location: "Dokki, Egypt",
-          description:
-          "Help People"
+          description: "Help People",
           color: "#4285F4",
         },
 //        {
