@@ -335,18 +335,18 @@ const competitiveSites = {
 
 const degrees = {
   degrees: [
-    {
-      title: "Cairo University",
-      subtitle: "Bachelor of Commerce, Accounting & Finance",
-      logo_path: "cairo_university_logo.jpg",
-      alt_name: "Cairo University",
-      duration: "2008 - 2012",
-      descriptions: [
-        "⚡ I have studied subjects like Accounting, Finance, Economics, Business Law, and Management.",
-            "⚡ I graduated with a score of 80%.",
-        ],
-        website_link: "http://cu.edu.eg",
-    },
+//    {
+//      title: "Cairo University",
+//      subtitle: "Bachelor of Commerce, Accounting & Finance",
+//      logo_path: "cairo_university_logo.jpg",
+//      alt_name: "Cairo University",
+//      duration: "2008 - 2012",
+//      descriptions: [
+//        "⚡ I have studied subjects like Accounting, Finance, Economics, Business Law, and Management.",
+//            "⚡ I graduated with a score of 80%.",
+//        ],
+//        website_link: "http://cu.edu.eg",
+//    },
      {
       title: "Indian Institute of Information Technology Kurnool",
       subtitle: "B.Tech. in Computer Engineering",
