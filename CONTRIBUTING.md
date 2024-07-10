@@ -1,4 +1,4 @@
-# 🚀 Contributing to the MasterPortfolio Project
+# 🚀 Contributing to the masterPortfolioerp Project
 
 Thank you for considering contributing to the MasterPortfolio project! Your help is greatly appreciated. 😊
 
@@ -7,18 +7,18 @@ Thank you for considering contributing to the MasterPortfolio project! Your help
 Here are some fun and precise steps to get you started:
 
 1. **Fork the Repository** 🍴
-   - Click the "Fork" button on the top right of the [MasterPortfolio repository](https://github.com/mohamedabuemira/masterPortfolioerp) page on GitHub. This will create a copy of the project in your own GitHub account.
+   - Click the "Fork" button on the top right of the [masterPortfolioerp repository](https://github.com/mohamedabuemira/masterPortfolioerp) page on GitHub. This will create a copy of the project in your own GitHub account.
 
 2. **Clone Your Fork** 🧙‍♂️
    - In your terminal, run the following command to clone your fork to your local machine:
      ```
-     git clone https://github.com/YourUsername/masterPortfolio.git
+     git clone https://github.com/YourUsername/masterPortfolioerp.git
      ```
 
 3. **Switch to the Project Directory** 📁
    - Move into the project directory using:
      ```
-     cd masterPortfolio
+     cd masterPortfolioerp
      ```
 
 4. **Move to Gatsby** 🚀
@@ -58,7 +58,7 @@ Here are some fun and precise steps to get you started:
     - Go to your fork on GitHub, and click the "New Pull Request" button. Follow the prompts, and submit your changes for review.
 
 13. **Celebrate** 🎉
-    - You've contributed to the MasterPortfolio project! Thanks for your hard work and dedication.
+    - You've contributed to the masterPortfolioerp project! Thanks for your hard work and dedication.
 
 ## 📌 Issues
 

@@ -26,7 +26,7 @@ const greeting = {
     "Transform your business vision with my specialized ERP consulting expertise. As a proactive professional, I resolve complex financial management challenges and drive operational efficiency. Partner with me to automate and elevate your ERP solutions, fueling transformative growth and sustained success.",
   resumeLink:
     "https://drive.google.com/file/d/1ev6aRPAlBNzW-8gwqLB_ZEmln3Qopub1/view?usp=sharing",
-  portfolio_repository: "https://github.com/mohamedabuemira/masterPortfolio",
+  portfolio_repository: "https://github.com/mohamedabuemira/masterPortfolioerp",
   githubProfile: "https://github.com/mohamedabuemira",
 };
 
