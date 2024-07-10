@@ -284,7 +284,7 @@ const competitiveSites = {
     },
     {
      siteName: "Cairo University",
-      iconifyClassname: "simple-icons:cairo_university", // Assuming there is an icon available
+      iconifyClassname: "cairo_university_logo.jpg" // Assuming there is an icon available
       style: {
         color: "#005739", // Assuming Cairo University's color
       },
