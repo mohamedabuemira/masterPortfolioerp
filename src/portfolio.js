@@ -495,7 +495,7 @@ const experience = {
           title: "General Accountant",
           company: "Nile for Plastic Industries",
           company_url: "https://www.linkedin.com/company/nile-for-plastic-industries/",
-          logo_path: "nile.jpeg",
+          logo_path: "npi.jpeg",
           duration: "Nov 2013  -Aug 2015",
           location: "Cairo, Egypt",
           description:"	Preparing the daily entries (customers & Suppliers& Banks& cash& adjustments& salaries)	-Posting in the registration books according to the American Accounting Methods",
