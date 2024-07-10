@@ -7,27 +7,27 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Abu Emira's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Mohamed Essam Abu Emira Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://abuemira.odoo.com/",
   },
 };
 
 //Home Page
 const greeting = {
-  title: "Ashutosh Hathidara",
-  logo_name: "AshutoshHathidara",
-  nickname: "layman_brother",
+  title: "Mohamed Essam Abu Emira",
+  logo_name: "MohamedAbuemira",
+  nickname: "ERP Consultant ",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Transform your business vision with my specialized ERP consulting expertise. As a proactive professional, I resolve complex financial management challenges and drive operational efficiency. Partner with me to automate and elevate your ERP solutions, fueling transformative growth and sustained success.",
   resumeLink:
-    "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/ashutosh1919",
+    "https://drive.google.com/file/d/1ev6aRPAlBNzW-8gwqLB_ZEmln3Qopub1/view?usp=sharing",
+  portfolio_repository: "https://github.com/mohamedabuemira/masterPortfolio",
+  githubProfile: "https://github.com/mohamedabuemira",
 };
 
 const socialMediaLinks = [
@@ -42,79 +42,59 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/ashutosh1919",
+    link: "https://github.com/mohamedabuemira",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/ashutosh1919/",
+    link: "https://www.linkedin.com/in/abuemira/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
     name: "YouTube",
-    link: "https://youtube.com/c/DevSense19",
+        link: "https://www.youtube.com/@OdooWithAbuemira",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
   {
     name: "Gmail",
-    link: "mailto:ashutoshhathidara98@gmail.com",
+    link: "mailto:mohamedabuemira@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
   {
     name: "X-Twitter",
-    link: "https://twitter.com/ashutosh_1919",
+    link: "https://x.com/MohamedAbuemira",
     fontAwesomeIcon: "fa-x-twitter", // Reference https://fontawesome.com/icons/x-twitter?f=brands&s=solid
     backgroundColor: "#000000", // Reference https://simpleicons.org/?q=x
   },
   {
     name: "Facebook",
-    link: "https://www.facebook.com/laymanbrother.19/",
+    link: "https://www.facebook.com/mohamed.abuemira/",
     fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
-  {
-    name: "Instagram",
-    link: "https://www.instagram.com/layman_brother/",
-    fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-    backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
-  },
-];
 
+];
+// Skills Page
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
-      fileName: "DataScienceImg",
+      title: "Odoo ERP Consulting",
+      fileName: "OdooConsultingImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Implementing Odoo ERP solutions for various business processes",
+        "⚡ Customizing and configuring Odoo modules to fit client requirements",
+        "⚡ Training end-users and providing ongoing support for Odoo systems",
       ],
       softwareSkills: [
         {
-          skillName: "Tensorflow",
-          fontAwesomeClassname: "logos-tensorflow",
+          skillName: "Odoo",
+          fontAwesomeClassname: "simple-icons:odoo",
           style: {
-            backgroundColor: "transparent",
-          },
-        },
-        {
-          skillName: "Keras",
-          fontAwesomeClassname: "simple-icons:keras",
-          style: {
-            backgroundColor: "white",
-            color: "#D00000",
-          },
-        },
-        {
-          skillName: "PyTorch",
-          fontAwesomeClassname: "logos-pytorch",
-          style: {
-            backgroundColor: "transparent",
+            color: "#A552E6",
           },
         },
         {
@@ -126,39 +106,17 @@ const skills = {
           },
         },
         {
-          skillName: "Deeplearning",
-          imageSrc: "deeplearning_ai_logo.png",
-        },
-      ],
-    },
-    {
-      title: "Full Stack Development",
-      fileName: "FullStackImg",
-      skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
-      ],
-      softwareSkills: [
-        {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
+          skillName: "PostgreSQL",
+          fontAwesomeClassname: "simple-icons:postgresql",
           style: {
-            color: "#E34F26",
+            color: "#336791",
           },
         },
         {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
+          skillName: "XML",
+          fontAwesomeClassname: "vscode-icons:file-type-xml",
           style: {
-            color: "#1572B6",
-          },
-        },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699",
+            color: "#FF6600",
           },
         },
         {
@@ -169,153 +127,142 @@ const skills = {
             color: "#F7DF1E",
           },
         },
-        {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB",
-          },
-        },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "devicon-plain:nodejs-wordmark",
-          style: {
-            color: "#339933",
-          },
-        },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
-        },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
       ],
     },
     {
-      title: "Cloud Infra-Architecture",
-      fileName: "CloudInfraImg",
+      title: "Financial Management",
+      fileName: "FinancialManagementImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Managing financial planning, budgeting, and forecasting",
+        "⚡ Conducting financial analysis and reporting",
+        "⚡ Implementing and overseeing internal controls and financial procedures",
       ],
       softwareSkills: [
         {
-          skillName: "GCP",
-          fontAwesomeClassname: "simple-icons:googlecloud",
+          skillName: "Excel",
+          fontAwesomeClassname: "simple-icons:microsoftexcel",
           style: {
-            color: "#4285F4",
+            color: "#217346",
           },
         },
         {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
+          skillName: "QuickBooks",
+          fontAwesomeClassname: "simple-icons:quickbooks",
           style: {
-            color: "#FF9900",
+            color: "#2CA01C",
           },
         },
         {
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
+          skillName: "SAP",
+          fontAwesomeClassname: "simple-icons:sap",
           style: {
-            color: "#0089D6",
+            color: "#0FAAFF",
           },
         },
         {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
-          },
-        },
-        {
-          skillName: "PostgreSQL",
+          skillName: "SQL",
           fontAwesomeClassname: "simple-icons:postgresql",
           style: {
             color: "#336791",
           },
         },
         {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
+          skillName: "PowerBI",
+          fontAwesomeClassname: "simple-icons:powerbi",
           style: {
-            color: "#47A248",
-          },
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5",
+            color: "#F2C811",
           },
         },
       ],
     },
     {
-      title: "UI/UX Design",
-      fileName: "DesignImg",
+      title: "Project Management",
+      fileName: "ProjectManagementImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Leading cross-functional teams to deliver projects on time and within budget",
+        "⚡ Creating project plans, timelines, and milestones",
+        "⚡ Managing project risks and implementing mitigation strategies",
       ],
       softwareSkills: [
         {
-          skillName: "Adobe XD",
-          fontAwesomeClassname: "simple-icons:adobexd",
+          skillName: "Microsoft Project",
+          fontAwesomeClassname: "simple-icons:microsoftproject",
           style: {
-            color: "#FF2BC2",
+            color: "#217346",
           },
         },
         {
-          skillName: "Figma",
-          fontAwesomeClassname: "simple-icons:figma",
+          skillName: "Trello",
+          fontAwesomeClassname: "simple-icons:trello",
           style: {
-            color: "#F24E1E",
+            color: "#0079BF",
           },
         },
         {
-          skillName: "Adobe Illustrator",
-          fontAwesomeClassname: "simple-icons:adobeillustrator",
+          skillName: "Asana",
+          fontAwesomeClassname: "simple-icons:asana",
           style: {
-            color: "#FF7C00",
+            color: "#273347",
           },
         },
         {
-          skillName: "Inkscape",
-          fontAwesomeClassname: "simple-icons:inkscape",
+          skillName: "Jira",
+          fontAwesomeClassname: "simple-icons:jira",
           style: {
-            color: "#000000",
+            color: "#0052CC",
+          },
+        },
+        {
+          skillName: "Slack",
+          fontAwesomeClassname: "simple-icons:slack",
+          style: {
+            color: "#4A154B",
+          },
+        },
+      ],
+    },
+    {
+      title: "Business Analysis",
+      fileName: "BusinessAnalysisImg",
+      skills: [
+        "⚡ Identifying business needs and developing solutions",
+        "⚡ Conducting market research and competitive analysis",
+        "⚡ Evaluating business processes and recommending improvements",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Tableau",
+          fontAwesomeClassname: "simple-icons:tableau",
+          style: {
+            color: "#E97627",
+          },
+        },
+        {
+          skillName: "Microsoft Visio",
+          fontAwesomeClassname: "simple-icons:microsoftvisio",
+          style: {
+            color: "#3955A3",
+          },
+        },
+        {
+          skillName: "Lucidchart",
+          fontAwesomeClassname: "simple-icons:lucidchart",
+          style: {
+            color: "#F38B00",
+          },
+        },
+        {
+          skillName: "Microsoft PowerPoint",
+          fontAwesomeClassname: "simple-icons:microsoftpowerpoint",
+          style: {
+            color: "#B7472A",
+          },
+        },
+        {
+          skillName: "Confluence",
+          fontAwesomeClassname: "simple-icons:confluence",
+          style: {
+            color: "#172B4D",
           },
         },
       ],
@@ -328,51 +275,13 @@ const competitiveSites = {
   competitiveSites: [
     {
       siteName: "LeetCode",
-      iconifyClassname: "simple-icons:leetcode",
+       siteName: "Cairo University",
+      iconifyClassname: "simple-icons:cairo_university", // Assuming there is an icon available
       style: {
-        color: "#F79F1B",
+        color: "#005739", // Assuming Cairo University's color
       },
-      profileLink: "https://leetcode.com/layman_brother/",
-    },
-    {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
-      style: {
-        color: "#2EC866",
-      },
-      profileLink: "https://www.hackerrank.com/layman_brother",
-    },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
+
+      profileLink: "https://www.linkedin.com/in/abuemira/",
     },
   ],
 };
@@ -380,31 +289,30 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Indian Institute of Information Technology Kurnool",
-      subtitle: "B.Tech. in Computer Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2016 - 2020",
-      descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
-      ],
-      website_link: "http://iiitk.ac.in",
+      title: "Cairo University",
+        subtitle: "Bachelor of Commerce, Accounting & Finance",
+        logo_path: "cairo_university_logo.jpg", // Assuming you have the logo
+        alt_name: "Cairo University",
+        duration: "2008 - 2012",
+        descriptions: [
+            "⚡ I have studied subjects like Accounting, Finance, Economics, Business Law, and Management.",
+            "⚡ I graduated with a score of 80%.",
+        ],
+        website_link: "http://cu.edu.eg",
     },
-    {
-      title: "Indiana University Bloomington",
-      subtitle: "M.S. in Computer Science",
-      logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
-      descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
-      ],
-      website_link: "https://www.indiana.edu/",
-    },
+//    {
+//      title: "Indiana University Bloomington",
+//      subtitle: "M.S. in Computer Science",
+//      logo_path: "iu_logo.png",
+//      alt_name: "Indiana University Bloomington",
+//      duration: "2021 - 2023",
+//      descriptions: [
+//        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
+//        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
+//        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+//      ],
+//      website_link: "https://www.indiana.edu/",
+//    },
   ],
 };
 
