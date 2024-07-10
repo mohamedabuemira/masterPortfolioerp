@@ -32,10 +32,10 @@ const greeting = {
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
+  // github: "https://github.com/mohamedabuemira",
+  // linkedin: "https://www.linkedin.com/in/abuemira/",
+  // gmail: "abuemira91@gmail.com",
+  // gitlab: "https://gitlab.com/mohamedabuemira",
   // facebook: "https://www.facebook.com/laymanbrother.19/",
   // twitter: "https://twitter.com/ashutosh_1919",
   // instagram: "https://www.instagram.com/layman_brother/"
@@ -510,7 +510,7 @@ const experience = {
           title: "Bank of Alexandria",
           company: "Bank of Alexandria.",
           company_url: "https://www.alexbank.com/",
-          logo_path: "Alexbank.png",
+          logo_path: "Alexbank.jpeg",
           duration: "Aug 2010 - oct 2010",
           location: "october, Egypt",
           description:"Teller"  ,
@@ -655,7 +655,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
-    link: "https://https://besterp.odoo.com/blog/",
+    link: "https://besterp.odoo.com/blog",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
