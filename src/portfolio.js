@@ -491,6 +491,16 @@ const experience = {
             "Led accounting operations, prepared financial statements, supervised junior staff, and managed taxation and auditing processes. Developed financial software systems and provided strategic financial advice.",
           color: "#0071C5",
         },
+        {
+          title: "General Accountant",
+          company: "Nile for Plastic Industries",
+          company_url: "https://www.linkedin.com/company/nile-for-plastic-industries/",
+          logo_path: "nile.jpeg",
+          duration: "Nov 2013  -Aug 2015",
+          location: "Cairo, Egypt",
+          description:"	Preparing the daily entries (customers & Suppliers& Banks& cash& adjustments& salaries)	-Posting in the registration books according to the American Accounting Methods",
+          color: "#0071C5",
+        },
       ],
     },
     {
