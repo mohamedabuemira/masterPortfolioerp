@@ -306,30 +306,30 @@ const competitiveSites = {
       },
       profileLink: "https://www.codechef.com/users/ashutosh_1919",
     },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
-    },
+//    {
+//      siteName: "Codeforces",
+//      iconifyClassname: "simple-icons:codeforces",
+//      style: {
+//        color: "#1F8ACB",
+//      },
+//      profileLink: "http://codeforces.com/profile/layman_brother",
+//    },
+//    {
+//      siteName: "Hackerearth",
+//      iconifyClassname: "simple-icons:hackerearth",
+//      style: {
+//        color: "#323754",
+//      },
+//      profileLink: "https://www.hackerearth.com/@ashutosh391",
+//    },
+//    {
+//      siteName: "Kaggle",
+//      iconifyClassname: "simple-icons:kaggle",
+//      style: {
+//        color: "#20BEFF",
+//      },
+//      profileLink: "https://www.kaggle.com/laymanbrother",
+//    },
   ],
 };
 
@@ -360,19 +360,19 @@ const degrees = {
       ],
       website_link: "http://iiitk.ac.in",
     },
-    {
-      title: "Indiana University Bloomington",
-      subtitle: "M.S. in Computer Science",
-      logo_path: "iu_logo.png",
-      alt_name: "Indiana University Bloomington",
-      duration: "2021 - 2023",
-      descriptions: [
-        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
-        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
-        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
-      ],
-      website_link: "https://www.indiana.edu/",
-    },
+//    {
+//      title: "Indiana University Bloomington",
+//      subtitle: "M.S. in Computer Science",
+//      logo_path: "iu_logo.png",
+//      alt_name: "Indiana University Bloomington",
+//      duration: "2021 - 2023",
+//      descriptions: [
+//        "⚡ I have taken varity of courses related to Artificial Intelligence which correspond to Explainable AI, Graph Machine Learning, Computer Vision etc.",
+//        "⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
+//        "⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
+//      ],
+//      website_link: "https://www.indiana.edu/",
+//    },
   ],
 };
 
