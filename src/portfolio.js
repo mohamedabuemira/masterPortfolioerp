@@ -274,38 +274,38 @@ const skills = {
 // Education Page
 const competitiveSites = {
   competitiveSites: [
-    {
-      siteName: "LeetCode",
-      iconifyClassname: "simple-icons:leetcode",
-      style: {
-        color: "#F79F1B",
-      },
-      profileLink: "https://leetcode.com/layman_brother/",
-    },
-    {
-     siteName: "Cairo University",
-      iconifyClassname: "cairo_university_logo.jpg" // Assuming there is an icon available
-      style: {
-        color: "#005739", // Assuming Cairo University's color
-      },
-      profileLink: "https://www.linkedin.com/in/abuemira/",
-    },
-    {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
-      style: {
-        color: "#2EC866",
-      },
-      profileLink: "https://www.hackerrank.com/layman_brother",
-    },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    },
+//    {
+//      siteName: "LeetCode",
+//      iconifyClassname: "simple-icons:leetcode",
+//      style: {
+//        color: "#F79F1B",
+//      },
+//      profileLink: "https://leetcode.com/layman_brother/",
+//    },
+//    {
+//     siteName: "Cairo University",
+//      iconifyClassname: "cairo_university_logo.jpg" // Assuming there is an icon available
+//      style: {
+//        color: "#005739", // Assuming Cairo University's color
+//      },
+//      profileLink: "https://www.linkedin.com/in/abuemira/",
+//    },
+//    {
+//      siteName: "HackerRank",
+//      iconifyClassname: "simple-icons:hackerrank",
+//      style: {
+//        color: "#2EC866",
+//      },
+//      profileLink: "https://www.hackerrank.com/layman_brother",
+//    },
+//    {
+//      siteName: "Codechef",
+//      iconifyClassname: "simple-icons:codechef",
+//      style: {
+//        color: "#5B4638",
+//      },
+//      profileLink: "https://www.codechef.com/users/ashutosh_1919",
+//    },
 //    {
 //      siteName: "Codeforces",
 //      iconifyClassname: "simple-icons:codeforces",
