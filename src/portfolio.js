@@ -373,119 +373,67 @@ const degrees = {
 //    },
   ],
 };
-
+// certifications Page
 const certifications = {
   certifications: [
     {
-      title: "Machine Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "stanford_logo.png",
+      title: "Odoo 16 & 17 Functional Certification",
+      subtitle: "- Odoo",
+      logo_path: "odoocertification.jpg", // Replace with actual logo path
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
-      alt_name: "Stanford University",
-      color_code: "#8C151599",
+        "https://drive.google.com/file/d/1eHusoGXtbL6_L6svBoYhIoaPme_yoQnj/view",
+      alt_name: "Odoo",
+      color_code: "#F0F0F0",
     },
     {
-      title: "Deep Learning",
-      subtitle: "- Andrew Ng",
-      logo_path: "deeplearning_ai_logo.png",
+      title: " ALX AiCE - AI Career Essentials",
+      subtitle: "- ALX ",
+      logo_path: "40-alx-aice-ai-career-essentials-certificate-mohamed-essam-abu-emira.png", // Replace with actual logo path
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
+        "https://intranet.alxswe.com/certificates/xMYrP8sCT9",
+      alt_name: "McKinsey & Company",
+      color_code: "#E4E4E4",
+    },
+
+    {
+      title: "McKinsey Forward Program",
+      subtitle: "- McKinsey & Company",
+      logo_path: "mckinsey_logo.png", // Replace with actual logo path
+      certificate_link:
+        "https://www.credly.com/badges/18980ea7-db63-4065-bd1b-bc39e736ffbd/linked_in_profile",
+      alt_name: "McKinsey & Company",
+      color_code: "#E4E4E4",
     },
     {
-      title: "ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
+      title: "Project Management from Google",
+      subtitle: "- Google",
+      logo_path: "google_logo.png", // Replace with actual logo path
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
+        "https://www.linkedin.com/in/abuemira/details/certifications/",
       alt_name: "Google",
-      color_code: "#0C9D5899",
+      color_code: "#0C9D58",
     },
     {
-      title: "Data Science",
-      subtitle: "- Alex Aklson",
-      logo_path: "ibm_logo.png",
+      title: "Product Management Basics Certification",
+      subtitle: "- Pendo",
+      logo_path: "Pendo_logo.png", // Replace with actual logo path
       certificate_link:
-        "https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
+        "https://www.credly.com/badges/d9784cb2-0e16-4f58-9b27-422cf201582f/linked_in_profile/",
+      alt_name: "CFI",
+      color_code: "#F0F0F0",
     },
     {
-      title: "Big Data",
-      subtitle: "- Kim Akers",
-      logo_path: "microsoft_logo.png",
+      title: "Accounting Fundamentals from Corporate Finance Institute® (CFI)",
+      subtitle: "- Corporate Finance Institute® (CFI)",
+      logo_path: "cfi_logo.jpg", // Replace with actual logo path
       certificate_link:
-        "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-      alt_name: "Microsoft",
-      color_code: "#D83B0199",
-    },
-    {
-      title: "Advanced Data Science",
-      subtitle: "- Romeo Kienzler",
-      logo_path: "ibm_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-      alt_name: "IBM",
-      color_code: "#1F70C199",
-    },
-    {
-      title: "Advanced ML on GCP",
-      subtitle: "- GCP Training",
-      logo_path: "google_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-      alt_name: "Google",
-      color_code: "#0C9D5899",
-    },
-    {
-      title: "DL on Tensorflow",
-      subtitle: "- Laurence Moroney",
-      logo_path: "deeplearning_ai_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-      alt_name: "deeplearning.ai",
-      color_code: "#00000099",
-    },
-    {
-      title: "Fullstack Development",
-      subtitle: "- Jogesh Muppala",
-      logo_path: "coursera_logo.png",
-      certificate_link:
-        "https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
-      alt_name: "Coursera",
-      color_code: "#2A73CC",
-    },
-    {
-      title: "Kuberenetes on GCP",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
-      alt_name: "GCP",
-      color_code: "#4285F499",
-    },
-    {
-      title: "Cryptography",
-      subtitle: "- Saurabh Mukhopadhyay",
-      logo_path: "nptel_logo.png",
-      certificate_link:
-        "https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-      alt_name: "NPTEL",
-      color_code: "#FFBB0099",
-    },
-    {
-      title: "Cloud Architecture",
-      subtitle: "- Qwiklabs",
-      logo_path: "gcp_logo.png",
-      certificate_link:
-        "https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
-      alt_name: "GCP",
-      color_code: "#4285F499",
+        "https://credentials.corporatefinanceinstitute.com/60cd8780-e824-4aea-80e5-288f0042df5c/",
+      alt_name: "CFI",
+      color_code: "#F0F0F0",
     },
   ],
 };
+
 
 // Experience Page
 const experience = {
