@@ -119,14 +119,6 @@ const skills = {
             color: "#FF6600",
           },
         },
-        {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
-          },
-        },
       ],
     },
     {
@@ -182,6 +174,12 @@ const skills = {
         "⚡ Leading cross-functional teams to deliver projects on time and within budget",
         "⚡ Creating project plans, timelines, and milestones",
         "⚡ Managing project risks and implementing mitigation strategies",
+        "⚡ Agile methodologies",
+        "⚡ Task management",
+        "⚡ Budgeting and Cost Control",
+        "⚡ Odoo methodologies",
+        "⚡ Waterfall",
+        "⚡ Stakeholder Management",
       ],
       softwareSkills: [
         {
@@ -228,27 +226,19 @@ const skills = {
         "⚡ Identifying business needs and developing solutions",
         "⚡ Conducting market research and competitive analysis",
         "⚡ Evaluating business processes and recommending improvements",
+        "⚡ Business Process",
+        "⚡ Business Process Reengineering",
+        "⚡ Gap Analysis",
+        "⚡ Data Analysis",
+        "⚡ Data Migration",
+        "⚡ Process Improvement",
       ],
       softwareSkills: [
-        {
-          skillName: "Tableau",
-          fontAwesomeClassname: "simple-icons:tableau",
-          style: {
-            color: "#E97627",
-          },
-        },
         {
           skillName: "Microsoft Visio",
           fontAwesomeClassname: "simple-icons:microsoftvisio",
           style: {
             color: "#3955A3",
-          },
-        },
-        {
-          skillName: "Lucidchart",
-          fontAwesomeClassname: "simple-icons:lucidchart",
-          style: {
-            color: "#F38B00",
           },
         },
         {
@@ -258,17 +248,23 @@ const skills = {
             color: "#B7472A",
           },
         },
-        {
-          skillName: "Confluence",
-          fontAwesomeClassname: "simple-icons:confluence",
-          style: {
-            color: "#172B4D",
-          },
-        },
+      ],
+    },
+    {
+      title: "Soft Skills",
+      fileName: "SoftSkillsImg",
+      skills: [
+        "⚡ Problem-Solving",
+        "⚡ Communication",
+        "⚡ Training and Support",
+        "⚡ Leadership",
+        "⚡ Client Relationship Management",
+        "⚡ Time Management",
       ],
     },
   ],
 };
+
 
 // Education Page
 // Education Page
