@@ -177,7 +177,7 @@ const skills = {
     },
     {
       title: "Project Management",
-      fileName: "ProjectManagementImg.jpg",
+      fileName: "DataScienceImg",
       skills: [
         "⚡ Leading cross-functional teams to deliver projects on time and within budget",
         "⚡ Creating project plans, timelines, and milestones",
@@ -223,7 +223,7 @@ const skills = {
     },
     {
       title: "Business Analysis",
-      fileName: "BusinessAnalysisImg",
+      fileName: "FullStackImg",
       skills: [
         "⚡ Identifying business needs and developing solutions",
         "⚡ Conducting market research and competitive analysis",

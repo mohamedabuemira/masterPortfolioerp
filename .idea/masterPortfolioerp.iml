@@ -5,5 +5,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="masterPortfolio" />
+    <orderEntry type="module" module-name="vanoop729.github.io-master" />
+    <orderEntry type="module" module-name="netlify-hackathon-master" />
   </component>
 </module>
