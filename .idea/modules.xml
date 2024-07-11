@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../masterPortfolio/.idea/masterPortfolio.iml" filepath="$PROJECT_DIR$/../masterPortfolio/.idea/masterPortfolio.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/masterPortfolioerp.iml" filepath="$PROJECT_DIR$/.idea/masterPortfolioerp.iml" />
     </modules>
   </component>

@@ -83,7 +83,7 @@ const skills = {
   data: [
     {
       title: "Odoo ERP Consulting",
-      fileName: "OdooConsultingImg",
+      fileName: "DataScienceImg",
       skills: [
         "⚡ Implementing Odoo ERP solutions for various business processes",
         "⚡ Customizing and configuring Odoo modules to fit client requirements",
@@ -131,7 +131,7 @@ const skills = {
     },
     {
       title: "Financial Management",
-      fileName: "FinancialManagementImg",
+      fileName: "CloudInfraImg",
       skills: [
         "⚡ Managing financial planning, budgeting, and forecasting",
         "⚡ Conducting financial analysis and reporting",
@@ -177,7 +177,7 @@ const skills = {
     },
     {
       title: "Project Management",
-      fileName: "ProjectManagementImg",
+      fileName: "ProjectManagementImg.jpg",
       skills: [
         "⚡ Leading cross-functional teams to deliver projects on time and within budget",
         "⚡ Creating project plans, timelines, and milestones",
