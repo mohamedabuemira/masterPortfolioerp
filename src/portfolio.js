@@ -131,7 +131,7 @@ const skills = {
     },
     {
       title: "Financial Management",
-      fileName: "CloudInfraImg",
+      fileName: "FullStackImg",
       skills: [
         "⚡ Managing financial planning, budgeting, and forecasting",
         "⚡ Conducting financial analysis and reporting",
