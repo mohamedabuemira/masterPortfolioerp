@@ -252,7 +252,7 @@ const skills = {
     },
     {
       title: "Soft Skills",
-      fileName: "SoftSkillsImg",
+      fileName: "FullStackImg",
       skills: [
         "⚡ Problem-Solving",
         "⚡ Communication",
