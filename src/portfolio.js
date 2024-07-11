@@ -261,6 +261,23 @@ const skills = {
         "⚡ Client Relationship Management",
         "⚡ Time Management",
       ],
+      softwareSkills: [
+        {
+          skillName: "Microsoft Visio",
+          fontAwesomeClassname: "simple-icons:microsoftvisio",
+          style: {
+            color: "#3955A3",
+          },
+        },
+        {
+          skillName: "Microsoft PowerPoint",
+          fontAwesomeClassname: "simple-icons:microsoftpowerpoint",
+          style: {
+            color: "#B7472A",
+          },
+        },
+      ],
+    },
     },
   ],
 };
