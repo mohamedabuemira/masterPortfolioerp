@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../masterPortfolio/.idea/masterPortfolio.iml" filepath="$PROJECT_DIR$/../masterPortfolio/.idea/masterPortfolio.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/masterPortfolioerp.iml" filepath="$PROJECT_DIR$/.idea/masterPortfolioerp.iml" />
-      <module fileurl="file://$USER_HOME$/Downloads/netlify-hackathon-master/netlify-hackathon-master/.idea/netlify-hackathon-master.iml" filepath="$USER_HOME$/Downloads/netlify-hackathon-master/netlify-hackathon-master/.idea/netlify-hackathon-master.iml" />
-      <module fileurl="file://$USER_HOME$/Downloads/vanoop729.github.io-master/vanoop729.github.io-master/.idea/vanoop729.github.io-master.iml" filepath="$USER_HOME$/Downloads/vanoop729.github.io-master/vanoop729.github.io-master/.idea/vanoop729.github.io-master.iml" />
     </modules>
   </component>
 </project>
