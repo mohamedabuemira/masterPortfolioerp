@@ -250,34 +250,34 @@ const skills = {
         },
       ],
     },
-    {
-      title: "Soft Skills",
-      fileName: "FullStackImg",
-      skills: [
-        "⚡ Problem-Solving",
-        "⚡ Communication",
-        "⚡ Training and Support",
-        "⚡ Leadership",
-        "⚡ Client Relationship Management",
-        "⚡ Time Management",
-      ],
-      softwareSkills: [
-        {
-          skillName: "Microsoft Visio",
-          fontAwesomeClassname: "simple-icons:microsoftvisio",
-          style: {
-            color: "#3955A3",
-          },
-        },
-        {
-          skillName: "Microsoft PowerPoint",
-          fontAwesomeClassname: "simple-icons:microsoftpowerpoint",
-          style: {
-            color: "#B7472A",
-          },
-        },
-      ],
-    },
+//    {
+//      title: "Soft Skills",
+//      fileName: "FullStackImg",
+//      skills: [
+//        "⚡ Problem-Solving",
+//        "⚡ Communication",
+//        "⚡ Training and Support",
+//        "⚡ Leadership",
+//        "⚡ Client Relationship Management",
+//        "⚡ Time Management",
+//      ],
+//      softwareSkills: [
+//        {
+//          skillName: "Microsoft Visio",
+//          fontAwesomeClassname: "simple-icons:microsoftvisio",
+//          style: {
+//            color: "#3955A3",
+//          },
+//        },
+//        {
+//          skillName: "Microsoft PowerPoint",
+//          fontAwesomeClassname: "simple-icons:microsoftpowerpoint",
+//          style: {
+//            color: "#B7472A",
+//          },
+//        },
+//      ],
+//    },
   ],
 };
 
