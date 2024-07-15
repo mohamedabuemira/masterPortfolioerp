@@ -3,16 +3,7 @@ import React, { Component } from "react";
 export default class DesignImg extends Component {
   render() {
     const theme = this.props.theme;
-   return (
-  <a href="https://www.erp-information.com/wp-content/uploads/2021/07/Odoo-ERP-modules-1024x768.png?ezimgfmt=ng:webp/ngcb3" target="_blank" rel="noopener noreferrer">
-    <svg
-      id="1c51936f-ad83-4493-a1e8-5a7ca1846cda"
-      data-name="Layer 1"
-      xmlns="http://www.w3.org/2000/svg"
-      width="1164.07"
-      height="555.93"
-      viewBox="0 0 1164.07 555.93"
-    >
+    return (
       <svg
         id="1c51936f-ad83-4493-a1e8-5a7ca1846cda"
         data-name="Layer 1"
@@ -1019,7 +1010,6 @@ export default class DesignImg extends Component {
           />
         </g>
       </svg>
-       </a>
     );
   }
 }
