@@ -83,7 +83,7 @@ const skills = {
   data: [
     {
       title: "Odoo ERP Consulting",
-      fileName: "DesignImg",
+      fileName: "DataScienceImg",
       skills: [
         "⚡ Implementing Odoo ERP solutions for various business processes",
         "⚡ Customizing and configuring Odoo modules to fit client requirements",
