@@ -1007,7 +1007,7 @@ export default class DesignImg extends Component {
             fill="#feeeb7"
           />
         </g>
-      </svg>
+      </img>
     );
   }
 }
