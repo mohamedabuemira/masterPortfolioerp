@@ -10,7 +10,6 @@ export default class DesignImg extends Component {
     alt="Odoo ERP Modules"
     width="1164.07"
     height="555.93"
-  />
       >
         <defs>
           <linearGradient
