@@ -3,13 +3,24 @@ import React, { Component } from "react";
 export default class DesignImg extends Component {
   render() {
     const theme = this.props.theme;
-    return (
-      <img
-    id="1c51936f-ad83-4493-a1e8-5a7ca1846cda"
-    src="https://www.erp-information.com/wp-content/uploads/2021/07/Odoo-ERP-modules-1024x768.png?ezimgfmt=ng:webp/ngcb3"
-    alt="Odoo ERP Modules"
-    width="1164.07"
-    height="555.93"
+   return (
+  <a href="https://www.erp-information.com/wp-content/uploads/2021/07/Odoo-ERP-modules-1024x768.png?ezimgfmt=ng:webp/ngcb3" target="_blank" rel="noopener noreferrer">
+    <svg
+      id="1c51936f-ad83-4493-a1e8-5a7ca1846cda"
+      data-name="Layer 1"
+      xmlns="http://www.w3.org/2000/svg"
+      width="1164.07"
+      height="555.93"
+      viewBox="0 0 1164.07 555.93"
+    >
+      <svg
+        id="1c51936f-ad83-4493-a1e8-5a7ca1846cda"
+        data-name="Layer 1"
+        xmlns="http://www.w3.org/2000/svg"
+        // xmlns:xlink="http://www.w3.org/1999/xlink"
+        width="1164.07"
+        height="555.93"
+        viewBox="0 0 1164.07 555.93"
       >
         <defs>
           <linearGradient
@@ -1007,7 +1018,8 @@ export default class DesignImg extends Component {
             fill="#feeeb7"
           />
         </g>
-      </img>
+      </svg>
+       </a>
     );
   }
 }
